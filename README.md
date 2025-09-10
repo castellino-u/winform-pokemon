@@ -41,37 +41,39 @@ Desde el formulario principal se puede:
 
 ## ⚙️ Instalación y uso
 
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/pokemon-winforms.git
-2.Abrir el proyecto en Visual Studio.
 
-3.Ejecutar el script ScriptDB.sql en SQL Server Management Studio para crear la base de datos y las tablas.
+ 1. Clonar este repositorio
+git clone https://github.com/tu-usuario/pokemon-winforms.git
 
-4.Verificar la cadena de conexión en el código (clase PokemonService) y ajustarla si es necesario.
+ 2. Abrir el proyecto en Visual Studio
 
-5.Ejecutar el proyecto desde Visual Studio (F5).
+ 3. Ejecutar el script ScriptDB.sql en SQL Server Management Studio 
+    para crear la base de datos y las tablas.
 
-🚀 Aprendizajes
+ 4. Verificar la cadena de conexión en el código (clase PokemonService) 
+    y ajustarla si es necesario.
 
-En este proyecto aprendí a:
+ 5. Ejecutar el proyecto desde Visual Studio (F5).
 
-Usar WinForms para crear una interfaz gráfica básica.
+---
 
-Trabajar con ADO.NET para acceder a SQL Server.
+   ## 🚀 Aprendizajes
 
-Implementar un modelo de dominio.
+   En este proyecto aprendí a:
 
-Mostrar imágenes desde una URL en un PictureBox.
+- Usar WinForms para crear una interfaz gráfica básica.
+- Trabajar con ADO.NET para acceder a SQL Server.
+- Implementar un modelo de dominio.
+- Mostrar imágenes desde una URL en un PictureBox.
+- Organizar el código separando la lógica de acceso a datos de la UI.
 
-Organizar el código separando la lógica de acceso a datos de la UI.
-
-📌 Estado
+## 📌 Estado
 
 ✅ Proyecto funcional.
 🚧 Es solo una práctica inicial, el objetivo es aprender y sentar bases para proyectos más grandes.
 
 
+![App funcionando](./img/Captura%20de%20pantalla%202025-09-08%20234400.png)
 
 
 
